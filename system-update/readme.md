@@ -23,3 +23,8 @@ Make the script executable:
 ```
 chmod +x system_update.sh
 ```
+Run the Script:
+
+```bash
+./system_update.sh
+```
